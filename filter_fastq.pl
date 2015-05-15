@@ -1,12 +1,13 @@
 #!/usr/bin/perl
 
 # Filename:    filter_fastq.pl
-# Version:     2014-03-08
+# Version:     2015-05-14
 # Description: Program to remove invalid data records from fastq files.
 # References:  http://en.wikipedia.org/wiki/FASTQ_format
 #              http://www.bioperl.org/wiki/Fastq
 #              http://maq.sourceforge.net/fastq.shtml
-# Author:      Brian High <high@uw.edu>
+# Author:      Brian High
+# Repository:  https://github.com/brianhigh/filter-fastq
 # License:     GNU General Public License version 3 (GPLv3) or higher.
 #              See: http://www.gnu.org/licenses/gpl.html
 # Usage:       perl filter_fastq.pl < input_file > output_file
